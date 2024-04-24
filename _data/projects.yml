@@ -1,16 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Wise Connect
+  # role: Founder & Primary Developer
+  # duration: Feb 2024
+  url: "https://devpost.com/software/wiseconnect"
+  description: <ul class="resume-item-list"><li>Tech - Python, FastAPI, Scikit-Learn, SQL Alchemy, SQLite3.</li><li>Won a challenge at the WinHacks 2024 Hackathon by developing a social media platform with scam detection capabilities and protecting seniors from fraud.</li><li>Scraped, merged, and cleaned data from various sources to train a logistic regression machine learning model using Scikit-Learn.</li><li>Created REST API endpoints and designed database models.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: WeatherFlow  
+  # duration: 2007 &mdash; Present
+  url: "https://github.com/pratik-choudhari/WeatherFlow"
+  description: <ul class="resume-item-list"><li>Tech - Python, Apache AirFlow, OpenWeatherMap API, MySQL.</li><li>Built an ETL pipeline to continuously fetch weather information of cities in Canada over a specific interval and insert the data in a data warehouse.</li><li>Architected the required database schema for efficient analytical queries.</li><li>Integrated Tableau, a BI tool, to connect with data warehouse and visualize latest trends.</li></ul>
