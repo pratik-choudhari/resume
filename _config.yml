@@ -45,9 +45,9 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "https://github.com/pratik-choudhari"
+  resume_linkedin_url:          "https://www.linkedin.com/in/pratik-choudhari/"
+  resume_medium_url:            "https://medium.com/@pratik-choudhari"
 resume_print_social_links:      true
 
 # Design settings
