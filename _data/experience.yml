@@ -1,21 +1,16 @@
 # Jobs
-- company: University of Windsor
+- company: University of Windsor &mdash; Windsor, ON
   position: Research Assistant
   duration: May 2023 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Outperformed deadlines set by supervisor resulting in 90% reduction in project timeline.</li>
-            <li>Developing and maintaining versions using GIT for a GUI based application to stream camera feed with analytical views.</li>
-            <li>Utilizing multi-threading and NumPy array manipulations to achieve 50% faster execution times.</li>
-            <li>Created motion detection software designed to seamlessly switch between webcams depending on the presence of the professor within the camera's field of view.</li></ul>
+  tech: Python (Tkinter, Matplotlib, NumPy, Scikit-Learn), GitLab
+  summary: <ul class="resume-item-list"><li>Developed a GUI based application to stream video from a scientific camera.</li>
+            <li>Utilized multi-threading and NumPy to achieve 50% faster execution times.</li>
+            <li>Used Polynomial regression to perform curve fitting.</li>
+            <li>Created motion detection software to use in remote lectures and conferences.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
+  position: Data Engineer
+  duration:  Jun 2020 &mdash; Apr 2023
+  summary: <ul class="resume-item-list"><li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
+            <li>Wrote an algorithm to automate generation of SQL queries with minimal input over a vast knowledge base.</li>
+            <li>Performed containerized deployments on Azure servers followed by regular health checks and QA.</li></ul>
