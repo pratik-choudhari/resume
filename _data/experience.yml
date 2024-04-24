@@ -11,6 +11,7 @@
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
   position: Data Engineer
   duration:  Jun 2020 &mdash; Apr 2023
+  tech: Python (FastAPI, Pandas), MS-SQL, ClickHouse, Redis, Docker, Linux, AWS
   summary: <ul class="resume-item-list"><li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
             <li>Wrote an algorithm to automate generation of SQL queries with minimal input over a vast knowledge base.</li>
             <li>Performed containerized deployments on Azure servers followed by regular health checks and QA.</li></ul>
