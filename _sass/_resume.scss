@@ -27,6 +27,10 @@
     @include border-radius(100px);
     margin: 0 auto;
     display: block;
+    transition: .5s;
+  }
+  .avatar:hover{
+    transform: scale(1.35);
   }
 
   .header-name {
