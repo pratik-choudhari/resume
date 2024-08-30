@@ -98,20 +98,20 @@
       {% endif %}
 
       {% if site.resume_section_certification %}
-      <!-- begin Education -->
+      <!-- begin certification -->
       <section class="content-section">
         <header class="section-header">
           <h2>Certifications</h2>
         </header>
 
         {% for certificate in site.data.certification %}
-        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <div class="resume-item" itemscope>
           <h3 class="resume-item-title" itemprop="name">{{ certificate.name }}</h3>
           <p class="resume-item-copy">{{ certificate.issued }}</p>
         </div>
         {% endfor %}
       </section>
-      <!-- end Education -->
+      <!-- end certification -->
       {% endif %}
 
       {% if site.resume_section_projects %}
