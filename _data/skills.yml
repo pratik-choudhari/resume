@@ -1,15 +1,18 @@
 # Skills
 - skill: Programming/Scripting Languages
-  description: Python, C, Go, Java, BASH/Shell script
+  description: Python, Go, Java, Javascript, BASH
 
-- skill: Database Systems
-  description: MS SQL Server, MySQL, MongoDB, Redis, RabbitMQ, Kafka
+- skill: Database Management
+  description: MS SQL, MySQL, Cosmos DB, MongoDB, Redis, Azure Service Bus, RabbitMQ, Apache Kafka
 
-- skill: Deployment tools
-  description: AWS CodeDeploy, GitHub Actions, Jenkins, Docker, Docker Compose, NGINX
+- skill: Cloud and Deployment tools
+  description: Azure, Docker, Docker Compose, GitHub Actions, Jenkins
 
 - skill: Development tools
-  description: Git, PyCharm, SSMS, DBeaver, Postman, Insomnia, Swagger, Tableau, Power BI
+  description: Git, PyCharm, SSMS, Postman, Insomnia, Tableau, Power BI
+
+- skill: Concepts
+  description: ETL, Data modelling, Object Oriented Programming, Functional Programming
 
 - skill: Python libraries/frameworks
-  description: Apache Airflow, Apache Spark, FastAPI, Flask, Django, SQLAlchemy(ORM), Pandas, Matplotlib, Gunicorn, Uvicorn, PyJWT
+  description: Apache Airflow, Apache Spark, Pandas, NumPy, Matplotlib, scikit-learn, FastAPI, Flask, Django, SQLAlchemy(ORM), Uvicorn, PyJWT

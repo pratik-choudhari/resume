@@ -1,5 +1,10 @@
 # Recognitions
-- award: WinHacks - Social Media App
+- award: Price Palette - Project Pitch Competition
+  organization: University of Windsor
+  year: May 2024 
+  summary: Secured first place in project pitch compeition held by WeTech alliance and Alchimetis. Built JWT secured APIs in FastAPI and deployed application on Azure using container registry, container apps, key vault and static web app.
+
+- award: Wise Connect - WinHacks
   organization: University of Windsor
   year: Feb 2024 
-  summary: Won the Social Media App challenge by Rocket Innovation Studio in WinHacks hackathon.
+  summary: Won the Social Media App challenge by Rocket Innovation Studio in WinHacks hackathon. Worked on preprocessing of data and training of an ensemble of machine learning models in scikit-learn.
