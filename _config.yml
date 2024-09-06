@@ -24,13 +24,19 @@ resume_header_contact_info:     "Windsor, ON • choudh12@uwindsor.ca"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Experienced data engineer with a passion for writing readable, maintainable and modular code. Expert in Python, SQL, Pandas, and API development. 
-<br>What I love:
+<br>🌟Things I love:
 <ul>
 <li>🎵Music - No seriously, can't live without it</li>
 <li>🐍Python - Being easy to learn can be both an advantage and a drawback. I took the advantage 😎</li>
 <li>🌵Cactii and succulents</li>
-<li>💻Data - collection, manipulation and analysis. Well-versed in Pandas</li>
-</ul></p>"
+<li>💻Data - Collection, manipulation and analysis. Well-versed in Pandas</li>
+<li>🗣️Productive conversions - Let's make them a norm</li>
+</ul>
+<br>👎Things I frown upon:
+<ul>
+<li>📜Unreadable code</li>
+</ul>
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
