@@ -3,16 +3,19 @@
   description: Python, Go, Java, Javascript, BASH
 
 - skill: Database Management
-  description: MS SQL, MySQL, Cosmos DB, MongoDB, Redis, Azure Service Bus, RabbitMQ, Apache Kafka
+  description: MS SQL, MySQL, Cosmos DB, MongoDB, Cassandra, Redis
 
 - skill: Cloud and Deployment tools
   description: Azure, Docker, Docker Compose, GitHub Actions, Jenkins
 
+- skill: Python libraries/frameworks
+  description: Pandas, NumPy, Matplotlib, scikit-learn, FastAPI, Flask, Django, SQLAlchemy(ORM), PyJWT
+
+- skill: ETL tools
+  description: Apache Airflow, Apache Spark, Apache Kafka, Apache Parquet, Databricks
+
 - skill: Development tools
-  description: Git, PyCharm, SSMS, Postman, Insomnia, Tableau, Power BI
+  description: Git, PyCharm, SSMS, Postman, Tableau, Power BI
 
 - skill: Concepts
-  description: ETL, Data modelling, Object Oriented Programming, Functional Programming
-
-- skill: Python libraries/frameworks
-  description: Apache Airflow, Apache Spark, Pandas, NumPy, Matplotlib, scikit-learn, FastAPI, Flask, Django, SQLAlchemy(ORM), Uvicorn, PyJWT
+  description: ETL, Data modelling, Object Oriented Programming, Schema design, Predictive modelling, DRY
