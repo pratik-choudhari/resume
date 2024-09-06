@@ -1,7 +1,16 @@
 # Jobs
 - company: University of Windsor &mdash; Windsor, ON
   position: Research Assistant
-  duration: May 2023 &mdash; Present
+  duration: May 2023 &mdash; Apr 2024
+  tech: Python (Tkinter, Matplotlib, NumPy, Scikit-Learn), GitLab
+  summary: <ul class="resume-item-list"><li>Developed a GUI based application to stream video from a scientific camera.</li>
+            <li>Utilized multi-threading and NumPy to achieve 50% faster execution times.</li>
+            <li>Used Polynomial regression to perform curve fitting.</li>
+            <li>Created motion detection software to use in remote lectures and conferences.</li></ul>
+
+- company: Locobuzz Solutions Pvt. Ltd &mdash; Remote
+  position: Python Development Consultant
+  duration: June 2023 &mdash; May 2024
   tech: Python (Tkinter, Matplotlib, NumPy, Scikit-Learn), GitLab
   summary: <ul class="resume-item-list"><li>Developed a GUI based application to stream video from a scientific camera.</li>
             <li>Utilized multi-threading and NumPy to achieve 50% faster execution times.</li>
