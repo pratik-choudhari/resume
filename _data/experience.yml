@@ -2,9 +2,9 @@
 - company: University of Windsor &mdash; Windsor, ON
   position: Database Developer Coop
   duration: May 2024 &mdash; Aug 2024
-  tech: Python (Tkinter, Matplotlib, NumPy, Scikit-Learn), GitLab
+  tech: Python (FastAPI, SQLite3, SQLAlchemy), React, Typescript, Docker, Digital Ocean, Github
   summary: <ul class="resume-item-list">
-            <li>Developed a sophisticated React-based website using TypeScript, State, Hooks, and Router, with a Python and PostgreSQL backend for efficient data handling and seamless integration.</li>
+            <li>Developed a React-based website using TypeScript, State, Hooks, and Router, with a Python and PostgreSQL backend for efficient data handling and seamless integration.</li>
             <li>Designed the database schema and data ingestion scripts in Python operating on excel and CSV files.</li>
             <li>Utilized advanced Python features, including decorators, generators, context managers, and metaprogramming, to create efficient, reusable code and reduce boilerplate.</li>
             <li>Created a technical documentation, detailing usage instructions, application deployment, and code functionality.</li>
@@ -13,9 +13,9 @@
 - company: University of Windsor &mdash; Windsor, ON
   position: Research Assistant
   duration: May 2023 &mdash; Apr 2024
-  tech: Python (Tkinter, Matplotlib, NumPy, Scikit-Learn), GiintetLab
+  tech: Python (Tkinter, NumPy, Multithreading, Matplotlib, Scikit-Learn), FTP, VNC, Gitlab
   summary: <ul class="resume-item-list">
-            <li>Worked under a Physicist to create a multi-threaded GUI app with real-time dynamic visualizations to stream video from a high-speed camera monitoring output of a laser experiment setup.</li>
+            <li>Worked with physicists to create a multi-threaded GUI app with real-time dynamic visualizations to stream video from a high-speed camera monitoring output of a laser experiment setup.</li>
             <li>Used techniques such as windowing and queues to efficiently distribute frames between multiple threads.</li>
             <li>Developed machine learning regression models to calibrate a spectrometer, achieving accurate results on a limited dataset.</li>
             <li>Learned and understood optics, fourier transforms, spatial coherency and usage of optical instruments.</li>
@@ -24,7 +24,7 @@
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Remote
   position: Python Development Consultant
   duration: June 2023 &mdash; May 2024
-  tech: Python (Tkinter, Matplotlib, NumPy, Scikit-Learn), GitLab
+  tech: Python (FastAPI, Pandas, Pydantic), MS SQL, Clickhouse, Github
   summary: <ul class="resume-item-list"><li>Developed a GUI based application to stream video from a scientific camera.</li>
             <li>Utilized multi-threading and NumPy to achieve 50% faster execution times.</li>
             <li>Used Polynomial regression to perform curve fitting.</li>
@@ -33,7 +33,10 @@
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
   position: Data Engineer
   duration:  Jun 2020 &mdash; Apr 2023
-  tech: Python (FastAPI, Pandas), MS-SQL, ClickHouse, Redis, Docker, Linux, AWS
-  summary: <ul class="resume-item-list"><li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
-            <li>Wrote an algorithm to automate generation of SQL queries with minimal input over a vast knowledge base.</li>
-            <li>Performed containerized deployments on Azure servers followed by regular health checks and QA.</li></ul>
+  tech: Python (FastAPI, Pandas, Pydantic), MS SQL, ClickHouse, Redis, Docker, AWS, Azure
+  summary: <ul class="resume-item-list">
+            <li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
+            <li>Architected and developed a Python application that dynamically generates SQL queries based on contextual input.</li>
+            <li>Performed containerized deployments on Azure servers.</li>
+            <li>Implemented secure, high-performance async RESTful APIs using FastAPI, integrating Redis for caching, OAuth for authentication, and Pydantic for accurate data validation.</li>
+          </ul>
