@@ -22,14 +22,13 @@
           </ul>
 
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Remote
-  position: Python Development Consultant (Post-Employee Tenure)
+  position: Consultant (Post-Employee Tenure)
   duration: June 2023 &mdash; May 2024
   tech: Python (FastAPI, Pandas, Pydantic), MS SQL, Clickhouse, Github
   summary: <ul class="resume-item-list">
             <li>Provided ongoing consulting services to my previous employer after 3 years of full-time work.</li>
-            <li>Led the migration of the backend system from MSQ SQL to ClickHouse, improving database performance and scalability.</li>
+            <li>Led the migration of the backend system from MS SQL to ClickHouse, improving database performance and scalability.</li>
             <li>Solved critical bugs identified during QA testing, leveraging my deep knowledge of the company's framework.</li>
-            <li>Utilized extensive familiarity with the company’s codebase to ensure seamless integration and efficient troubleshooting.</li>
           </ul>
 
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
@@ -37,7 +36,6 @@
   duration:  Jun 2021 &mdash; Apr 2023
   tech: Python (FastAPI, Pandas, Pydantic), Apache Airflow, CRON, MS SQL, ClickHouse, Redis, Docker, AWS, Azure, Jenkins, Github
   summary: <ul class="resume-item-list">
-            <li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
             <li>Architected and developed a Python application that dynamically generates SQL queries based on contextual input.</li>
             <li>Engineered a scalable ETL pipeline in Pandas that utilized machine learning models to apply complex transformations on batch data, handling over 1 million records weekly.</li>
             <li>Implemented secure, high-performance async RESTful APIs using FastAPI, integrating Redis for caching, OAuth for authentication, and Pydantic for accurate data validation.</li>
@@ -47,11 +45,10 @@
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
   position: Data Science Intern
   duration:  Jun 2020 &mdash; May 2021
-  tech: Python (FastAPI, Pandas, Pydantic), Apache Airflow, CRON, MS SQL, ClickHouse, Redis, Docker, AWS, Azure, Jenkins, Github
+  tech: Python (Flask, Pandas, Plotly, Streamlit), Jinja2, Scikit-learn, HTML, CSS, JS, Tensorflow, MongoDB
   summary: <ul class="resume-item-list">
-            <li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
-            <li>Architected and developed a Python application that dynamically generates SQL queries based on contextual input.</li>
-            <li>Engineered a scalable ETL pipeline in Pandas that utilized machine learning models to apply complex transformations on batch data, handling over 1 million records weekly.</li>
-            <li>Implemented secure, high-performance async RESTful APIs using FastAPI, integrating Redis for caching, OAuth for authentication, and Pydantic for accurate data validation.</li>
-            <li>Engineered an ETL pipeline in Apache AirFlow consuming AWS RedShift, MS SQL and Clickhouse for downstream analytics.</li>
+            <li>Worked on data manipulation and visualization using Pandas, Plotly, and Jupyter Notebook to create insightful and impactful visual reports.</li>
+            <li>Developed a Proof of Concept (POC) using Flask, Jinja, and Plotly to automate manual visualization processes, transitioning from PowerPoint reports to an interactive dashboard.</li>
+            <li>Designed and implemented an intellectual business logic layer using advanced Python techniques to power the automated dashboard.</li>
+            <li>Trained deep learning models for entity detection, enhancing data extraction and analysis capabilities.</li>
           </ul>
