@@ -45,8 +45,8 @@
           </ul>
 
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
-  position: Data Engineer
-  duration:  Jun 2021 &mdash; Apr 2023
+  position: Data Science Intern
+  duration:  Jun 2020 &mdash; May 2021
   tech: Python (FastAPI, Pandas, Pydantic), Apache Airflow, CRON, MS SQL, ClickHouse, Redis, Docker, AWS, Azure, Jenkins, Github
   summary: <ul class="resume-item-list">
             <li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
