@@ -1,13 +1,28 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Wise Connect
-  # role: Founder & Primary Developer
-  # duration: Feb 2024
-  url: "https://devpost.com/software/wiseconnect"
-  description: <ul class="resume-item-list"><li>Tech - Python, FastAPI, Scikit-Learn, SQL Alchemy, SQLite3.</li><li>Won a challenge at the WinHacks 2024 Hackathon by developing a social media platform with scam detection capabilities and protecting seniors from fraud.</li><li>Scraped, merged, and cleaned data from various sources to train a logistic regression machine learning model using Scikit-Learn.</li><li>Created REST API endpoints and designed database models.</li></ul>
+- project: FleetTrack
+  url: "https://github.com/pratik-choudhari/FleetTrack"
+  description: <ul class="resume-item-list">
+                <li>FleetTrack is a sophisticated data management system designed to capture, store, and analyze real-time telemetry from a fleet of vehicles, ensuring comprehensive visibility into fleet operations.</li>
+                <li>Architected and implemented a microservices-based solution to support scalable and resilient deployments.</li>
+                <li>Integrated Apache Kafka as a high-throughput messaging queue to handle and distribute real-time vehicle data efficiently.</li>
+                <li>Created Metabase dashboards that summarize the overall state of the vehicle fleet, using key visualizations like trend lines, heat maps, and time-series graphs to support real-time monitoring and decision-making.</li>
+              </ul>
 
 - project: WeatherFlow  
-  # duration: 2007 &mdash; Present
   url: "https://github.com/pratik-choudhari/WeatherFlow"
-  description: <ul class="resume-item-list"><li>Tech - Python, Apache AirFlow, OpenWeatherMap API, MySQL.</li><li>Built an ETL pipeline to continuously fetch weather information of cities in Canada over a specific interval and insert the data in a data warehouse.</li><li>Architected the required database schema for efficient analytical queries.</li><li>Integrated Tableau, a BI tool, to connect with data warehouse and visualize latest trends.</li></ul>
+  description: <ul class="resume-item-list">
+                <li>Tech - Python, Apache AirFlow, OpenWeatherMap API, MySQL.</li>
+                <li>Built an ETL pipeline to continuously fetch weather information of cities in Canada over a specific interval and insert the data in a data warehouse.</li>
+                <li>Architected the required database schema for efficient analytical queries.</li>
+                <li>Integrated Tableau, a BI tool, to connect with data warehouse and visualize latest trends.</li>
+              </ul>
+
+- project: docker-guide
+  url: "https://github.com/pratik-choudhari/docker-guide"
+  description: <ul class="resume-item-list">
+                <li>Developed a comprehensive GitHub repository containing detailed articles that explain Docker concepts with practical, follow-along examples.</li>
+                <li>Covered key Docker features such as networks, volumes, images, containers, CLI commands, and layer caching, providing readers with a complete understanding of Docker.</li>
+                <li>Gained significant recognition on GitHub, highlighting the value and impact of the guide within the developer community.</li>
+              </ul>
