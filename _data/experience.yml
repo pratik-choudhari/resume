@@ -22,21 +22,36 @@
           </ul>
 
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Remote
-  position: Python Development Consultant
+  position: Python Development Consultant (Post-Employee Tenure)
   duration: June 2023 &mdash; May 2024
   tech: Python (FastAPI, Pandas, Pydantic), MS SQL, Clickhouse, Github
-  summary: <ul class="resume-item-list"><li>Developed a GUI based application to stream video from a scientific camera.</li>
-            <li>Utilized multi-threading and NumPy to achieve 50% faster execution times.</li>
-            <li>Used Polynomial regression to perform curve fitting.</li>
-            <li>Created motion detection software to use in remote lectures and conferences.</li></ul>
+  summary: <ul class="resume-item-list">
+            <li>Provided ongoing consulting services to my previous employer after 3 years of full-time work.</li>
+            <li>Led the migration of the backend system from MSQ SQL to ClickHouse, improving database performance and scalability.</li>
+            <li>Solved critical bugs identified during QA testing, leveraging my deep knowledge of the company's framework.</li>
+            <li>Utilized extensive familiarity with the company’s codebase to ensure seamless integration and efficient troubleshooting.</li>
+          </ul>
 
 - company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
   position: Data Engineer
-  duration:  Jun 2020 &mdash; Apr 2023
-  tech: Python (FastAPI, Pandas, Pydantic), MS SQL, ClickHouse, Redis, Docker, AWS, Azure
+  duration:  Jun 2021 &mdash; Apr 2023
+  tech: Python (FastAPI, Pandas, Pydantic), Apache Airflow, CRON, MS SQL, ClickHouse, Redis, Docker, AWS, Azure, Jenkins, Github
   summary: <ul class="resume-item-list">
             <li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
             <li>Architected and developed a Python application that dynamically generates SQL queries based on contextual input.</li>
-            <li>Performed containerized deployments on Azure servers.</li>
+            <li>Engineered a scalable ETL pipeline in Pandas that utilized machine learning models to apply complex transformations on batch data, handling over 1 million records weekly.</li>
             <li>Implemented secure, high-performance async RESTful APIs using FastAPI, integrating Redis for caching, OAuth for authentication, and Pydantic for accurate data validation.</li>
+            <li>Engineered an ETL pipeline in Apache AirFlow consuming AWS RedShift, MS SQL and Clickhouse for downstream analytics.</li>
+          </ul>
+
+- company: Locobuzz Solutions Pvt. Ltd &mdash; Mumbai, India
+  position: Data Engineer
+  duration:  Jun 2021 &mdash; Apr 2023
+  tech: Python (FastAPI, Pandas, Pydantic), Apache Airflow, CRON, MS SQL, ClickHouse, Redis, Docker, AWS, Azure, Jenkins, Github
+  summary: <ul class="resume-item-list">
+            <li>Created a data pipeline to simplify workflows, maximize readability and facilitate easy scaling of API endpoints. Leveraged appropriate caching techniques to boost API performance.</li>
+            <li>Architected and developed a Python application that dynamically generates SQL queries based on contextual input.</li>
+            <li>Engineered a scalable ETL pipeline in Pandas that utilized machine learning models to apply complex transformations on batch data, handling over 1 million records weekly.</li>
+            <li>Implemented secure, high-performance async RESTful APIs using FastAPI, integrating Redis for caching, OAuth for authentication, and Pydantic for accurate data validation.</li>
+            <li>Engineered an ETL pipeline in Apache AirFlow consuming AWS RedShift, MS SQL and Clickhouse for downstream analytics.</li>
           </ul>
