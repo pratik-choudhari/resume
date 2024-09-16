@@ -1,5 +1,5 @@
 # Site settings
-title: "Pratik | Resume"
+title: "Pratik | Portfolio"
 description: ""
 
 # Build settings
@@ -37,6 +37,7 @@ resume_header_intro: "<p>Experienced data engineer with a passion for writing re
 <ul>
 <li>📜Unreadable code</li>
 </ul><br>
+Hackerrank: https://www.hackerrank.com/profile/pratik_choudhari<br>
 Current Status: Learning data frameworks, searching for full-time data engineering and SDE roles in Canada.
 </p>"
 
